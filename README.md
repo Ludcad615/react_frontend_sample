@@ -17,18 +17,21 @@ Create a blog website that dynamically renders a list of sample blogs from diffe
 The webpage may be designed any way that you would like. Feel free to modify existing files or create new files. You can add some new dependencies if you choose.
 
 ## Data
-You should use this [JSON Placeholder API](https://jsonplaceholder.typicode.com/) to load the data for your webpage. 
+Please use the [JSON Placeholder API](https://jsonplaceholder.typicode.com/) to load the data for your app. 
 
 ## Resources
 You may use any internet sources to aid your implementation. [React](https://reactjs.org/docs/getting-started.html) has great documentation if you get stuck/need help.
 
 ## Submitting Your Work (IMPORTANT)
-When you are finished, create a Pull Request in Github for the forked repository. This Pull Request should compare your created branch to the **main** branch. Email the link to your Pull Request to nicole.niemczycki@endava.com **at least 24 hours before your technical interview**
+When you are finished, create a Pull Request in Github on the forked repository. This Pull Request should compare your created branch to the **main** branch. Email the link to your Pull Request to nicole.niemczycki@endava.com **at least 24 hours before your technical interview**
 
 Again, please make sure your Pull Request is comparing the new branch you created on your forked repo to the *main* branch on your forked repo. The initial repository you forked off of should NOT be referenced.
 
 ## Example Interfaces
-![Home Page Example](home-page-example.png)
-![Author Page Example](author-page-example.png)
+These are for EXAMPLE purposes only. These images ARE NOT intended to show you what you are supposed to build.
+**Please DO NOT HARD CODE YOUR DATA to match these images**. Please pull from the [JSON Placeholder API](https://jsonplaceholder.typicode.com/) for your data as specified in the data section above.
 
-Have fun :)
+![Home Page Example](public/home-page-example.png)
+![Author Page Example](public/author-page-example.png)
+
+Have fun, and happy coding! :)
