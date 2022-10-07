@@ -1,0 +1,15 @@
+.nav-container {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+  /* padding: 20px; */
+  background-color: rgb(234, 200, 160);
+}
+
+.nav-links,
+#title {
+  display: flex;
+  gap: 2em;
+  font-size: 30px;
+  color: maroon;
+}
